@@ -1,6 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF6B6B,100:F06595&height=120&section=header&text=Welcome!%20윤지훈's%20GitHub&animation=pop&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+
+<!-- 1. Rounded / 오렌지-핑크 / Pop -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF6B6B,100:F06595&height=120&section=header&text=Welcome!%20윤지훈's%20GitHub&animation=pop&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+
+<!-- 2. Waving / 블루-퍼플 / SlideIn -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=header&text=Welcome!%20윤지훈's%20GitHub&animation=slideIn&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+
+<!-- 3. Shimmer / 그린-블루 / FadeIn -->
+<img src="https://capsule-render.vercel.app/api?type=shimmer&color=0:43E97B,100:38F9D7&height=120&section=header&text=Welcome!%20윤지훈's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+
+<!-- 4. Slice / 레드-오렌지 / Pop -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF4E50,100:F9D423&height=120&section=header&text=Welcome!%20윤지훈's%20GitHub&animation=pop&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+
 </div>
+
 
 ## 🧑‍💻 About Me
   <a href="mailto:wlgnsghk1@naver.com">
