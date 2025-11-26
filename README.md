@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:025ef2,100:024fe8&height=120&section=header&text=Welcome!%20윤지훈's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF6B6B,100:F06595&height=120&section=header&text=Welcome!%20윤지훈's%20GitHub&animation=pop&fontColor=ffffff&fontSize=40&fontAlignY=35" />
 </div>
 
 ## 🧑‍💻 About Me
