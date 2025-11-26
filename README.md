@@ -7,37 +7,36 @@
     <img src="https://img.shields.io/badge/wlgnsghk1@naver.com-03C75A?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 
-## 🛠️ Skills
+## 🛠️ Skills & Projects
 <div align="center">
   <table>
     <tr>
-      <th align="center" style="width: 15%">Category</th>
-      <th align="center" style="width: 50%">Tech Stack</th>
-      <th align="center" style="width: 35%">Algorithm / Profile</th>
+      <th align="center" style="width: 20%">Category</th>
+      <th align="center" style="width: 80%">Tech Stack</th>
     </tr>
     <tr>
       <td><strong>Frontend</strong></td>
       <td>
+        <!-- 영화추천 & 말문 & Picky 프로젝트 -->
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-      </td>
-      <td rowspan="4" align="center" style="vertical-align: top;">
-        <a href="https://solved.ac/inttype">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inttype" width="230" />
-        </a>
       </td>
     </tr>
     <tr>
       <td><strong>Backend</strong></td>
       <td>
+        <!-- 영화추천, 말문, Picky, vSphere 프로젝트 -->
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
         <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LiveKit-0E6F9F?style=flat-square"/>
       </td>
     </tr>
     <tr>
@@ -57,7 +56,9 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
         <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Horizon-0078D7?style=flat-square"/>
       </td>
     </tr>
   </table>
