@@ -1,23 +1,73 @@
-Infra · Network · Cloud 엔지니어를 목표로 공부하고 있습니다.  
-가상화, 네트워크, 자동화 환경 구축에 관심이 많습니다.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:025ef2,100:024fe8&height=120&section=header&text=Welcome!%20윤지훈's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+</div>
 
----
+## 🧑‍💻 About Me
+  <a href="mailto:wlgnsghk1@naver.com">
+    <img src="https://img.shields.io/badge/wlgnsghk1@naver.com-03C75A?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
 
-## 🛠 Tech Stack
-- VMware vSphere, Horizon
-- Windows Server, Linux
-- VLAN, NAT, VPN, DNS, DHCP
-- Docker, AWS (EC2, S3)
-- Python, Django, React, Vue
+## 🛠️ Skills
+<div align="center">
+  <table>
+    <tr>
+      <th align="center" style="width: 15%">Category</th>
+      <th align="center" style="width: 50%">Tech Stack</th>
+      <th align="center" style="width: 35%">Algorithm / Profile</th>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+      </td>
+      <td rowspan="4" align="center" style="vertical-align: top;">
+        <a href="https://solved.ac/inttype">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inttype" width="230" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Database</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TrueNAS-00539C?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tools & Others</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
-
-## 🚀 Projects
-- 🧠 **말문** : LiveKit 기반 WebRTC 언어치료 플랫폼  
-- 📰 **Picky** : AI 개인화 뉴스 추천 서비스  
-- 🎬 **Movie** : Django 기반 영화 추천 커뮤니티  
-- 🌐 **Network** : vSphere 기반 가상화 인프라 구축
-
----
-
-👉 자세한 내용은 Notion / Portfolio에서 확인하실 수 있습니다.
+## 📊 GitHub Stats  
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Int-Type&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Int-Type&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Int-Type&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%" />
+</p>
