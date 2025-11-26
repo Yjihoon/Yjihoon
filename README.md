@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=header&text=Welcome!%20윤지  훈's%20GitHub&animation=slideIn&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jihoon;Welcome+to+my+GitHub!" />
 </div>
 
 
