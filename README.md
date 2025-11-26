@@ -59,6 +59,7 @@
         <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
         <img src="https://img.shields.io/badge/Horizon-0078D7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
       </td>
     </tr>
   </table>
